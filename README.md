@@ -1,10 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Potex&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=%EB%B3%B4%EC%95%88%EC%97%90%EC%84%9C%20%EA%B0%9C%EB%B0%9C%EB%A1%9C&descSize=20&descAlignY=62" />
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+%EB%B3%B4%EC%95%88%EC%9D%84+%ED%95%98%EB%8B%A4%EA%B0%80+%EA%B0%9C%EB%B0%9C%EB%A1%9C;%F0%9F%92%BB+%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%9C%EB%8A%94+%EC%82%AC%EB%9E%8C%EC%9C%BC%EB%A1%9C;%F0%9F%9A%80+%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC%2C+%EA%BE%B8%EC%A4%80%ED%9E%88" alt="Typing SVG" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Potex&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
 ---
 
